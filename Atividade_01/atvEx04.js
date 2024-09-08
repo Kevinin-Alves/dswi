@@ -1,0 +1,9 @@
+console.log("10 = "+Boolean(10));
+console.log("true = "+Boolean(true));
+console.log("false = "+Boolean(false));
+console.log("true = "+Boolean({}));
+console.log("{} = "+Boolean(undefined));
+console.log("null = "+Boolean(null));
+console.log("'' = "+Boolean(''));
+console.log("abba = "+Boolean('abba'));
+console.log("0 =" +Boolean(0));
